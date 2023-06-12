@@ -8,12 +8,12 @@ import java.util.stream.Stream;
 
 public class StreamObjects {
     public static void main(String[] args) {
-        /*empty Steam object
+        //empty Steam object
         Stream<Objects>emptyStream=Stream.empty();
         emptyStream.forEach(e->{
             System.out.println(e);
         });
-         */
+
         String names[]={"Abubakar","Jameel","Uzair" };
         Stream<String> stream1 = Stream.of(names);
         stream1.forEach(e->

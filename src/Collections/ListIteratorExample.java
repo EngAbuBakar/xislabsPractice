@@ -12,7 +12,7 @@ public class ListIteratorExample {
         myList.add("Saturday");
         myList.add("Sunday");
 
-        ListIterator itr=myList.listIterator(1);
+        ListIterator itr=myList.listIterator();
 
         System.out.println(itr.previous());
         System.out.println(itr.previousIndex());

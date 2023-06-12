@@ -14,7 +14,12 @@ public class StackExample {
         //System.out.println(stack.peek());
         // Search method will return the index of that element
        // System.out.println(stack.search("Ali"));
-        //System.out.println(stack);
+//        //System.out.println(stack);
+//        for (Integer num: stack
+//             ) {
+//            System.out.println(num);
+//
+//        }
         while (!stack.isEmpty())
         {
             System.out.println(stack.peek());
