@@ -1,6 +1,6 @@
-package LambdaPractice;
+package Threads;
 
-public class ThreadExample {
+public class ThreadByRunnableInterface  {
     public static void main(String[] args) {
 
         Runnable thread=()->
