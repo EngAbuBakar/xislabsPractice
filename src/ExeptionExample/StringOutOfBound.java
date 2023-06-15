@@ -3,11 +3,10 @@ package ExeptionExample;
 public class StringOutOfBound {
     public static void main(String[] args) {
        try {
-
-
         String names="Ali is veru mice guy";
         int size=names.length();
-
+        names.replace("veru", "very");
+           System.out.println(names);
         System.out.println(names.charAt(23));
     }catch (Exception exception)
        {
@@ -21,8 +20,7 @@ public class StringOutOfBound {
        String gifts[]={"Chocolate","Candies","Sweet"};
        try {
 
-           for (String gift: gifts
-                ) {
+           for (String gift: gifts) {
                if (gift=="Candies")
                    gift.replace("Candies","Cookies");
                System.out.println(gift);
