@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cfb2525d-e404-4ce5-96cf-bfd88132d277" name="Changes" comment="3rd Commit">
-      <change afterPath="$PROJECT_DIR$/src/Regex/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProblemPrctice/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProblemPrctice/SortingArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Regex/ReverseString.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +44,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ReverseString">
+  <component name="RunManager" selected="Application.SortingArray">
     <configuration name="ArithmaticExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExeptionExample.ArithmaticExample" />
       <module name="xislabsPractice" />
@@ -69,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmailPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Regex.EmailPattern" />
+    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProblemPrctice.ReverseString" />
       <module name="xislabsPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Regex.*" />
+          <option name="PATTERN" value="ProblemPrctice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Regex.ReverseString" />
+    <configuration name="SortingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProblemPrctice.SortingArray" />
       <module name="xislabsPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Regex.*" />
+          <option name="PATTERN" value="ProblemPrctice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,7 +102,7 @@
       <module name="xislabsPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Regex.*" />
+          <option name="PATTERN" value="ProblemPrctice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SortingArray" />
         <item itemvalue="Application.ReverseString" />
         <item itemvalue="Application.SubdomainMatching" />
         <item itemvalue="Application.ArithmaticExample" />
         <item itemvalue="Application.CrreateFile" />
-        <item itemvalue="Application.EmailPattern" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687173044801</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="3rd Commit">
+      <created>1687238780149</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1687238780149</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
