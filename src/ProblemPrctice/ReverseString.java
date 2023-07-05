@@ -2,8 +2,10 @@ package ProblemPrctice;
 
 public class ReverseString {
     public static void main(String[] args) {
-    //reverseString("Hello world!");
-    reverseNumber(2324);
+   // reverseString("Hello world!");
+       // int number=reverseNumber(5435);
+        //System.out.println(number);
+    ///reverseNumber(2324);
     }
 
     public static String reverseString(String name) {
@@ -14,7 +16,7 @@ public class ReverseString {
             nstr = nstr + name.charAt(i);
         }
         System.out.println(nstr);
-        return nstr;
+        return null;
 
 
     }

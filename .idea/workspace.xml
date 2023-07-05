@@ -5,10 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cfb2525d-e404-4ce5-96cf-bfd88132d277" name="Changes" comment="3rd Commit">
-      <change afterPath="$PROJECT_DIR$/src/ProblemPrctice/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProblemPrctice/SortingArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BuilderDesignPattern/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BuilderDesignPattern/UserMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/AndroidDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/BookMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/EmployeeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/EmployeeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/NewBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/WebDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPattern/Observer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Regex/ReverseString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProblemPrctice/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemPrctice/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProblemPrctice/SortingArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemPrctice/SortingArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,13 +54,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SortingArray">
-    <configuration name="ArithmaticExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExeptionExample.ArithmaticExample" />
+  <component name="RunManager" selected="Application.UserMain">
+    <configuration name="BookMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPattern.BookMain" />
       <module name="xislabsPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExeptionExample.*" />
+          <option name="PATTERN" value="DesignPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CrreateFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FileHandling.CrreateFile" />
+    <configuration name="EmployeeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPattern.EmployeeMain" />
       <module name="xislabsPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FileHandling.*" />
+          <option name="PATTERN" value="DesignPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubdomainMatching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Regex.SubdomainMatching" />
+    <configuration name="UserMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BuilderDesignPattern.UserMain" />
       <module name="xislabsPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProblemPrctice.*" />
+          <option name="PATTERN" value="BuilderDesignPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UserMain" />
+        <item itemvalue="Application.EmployeeMain" />
+        <item itemvalue="Application.BookMain" />
         <item itemvalue="Application.SortingArray" />
         <item itemvalue="Application.ReverseString" />
-        <item itemvalue="Application.SubdomainMatching" />
-        <item itemvalue="Application.ArithmaticExample" />
-        <item itemvalue="Application.CrreateFile" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687238780149</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="3rd Commit">
+      <created>1687331291063</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1687331291063</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

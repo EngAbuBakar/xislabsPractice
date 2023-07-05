@@ -18,7 +18,7 @@ public class SortingArray {
         }
 
         System.out.println("Ascending order: ");
-        for (int i = 0; i <=numbers.length ; i++) {
+        for (int i = 0; i <numbers.length ; i++) {
             System.out.println(numbers[i]);
 
         }
@@ -36,7 +36,7 @@ public class SortingArray {
         }
 
         System.out.println("Descending order: ");
-        for (int i = 0; i <=num.length ; i++) {
+        for (int i = 0; i <num.length ; i++) {
             System.out.println(num[i]);
 
         }
